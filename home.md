@@ -8,9 +8,9 @@
 
 ## Test Links
 - [sub folder]
-	- [sub/subfile.md](/sub/subfile)
-	- [sub/subfile1.md](/sub/subfile1)
-	- [sub/subfile-1.md](/sub/subfile-1)
+	- [sub/subfile.md - allows to create file](/sub/subfile)
+	- [sub/subfile1.md - allows to create file](/sub/subfile1)
+	- [sub/subfile-1.md - allows to create file](/sub/subfile-1)
 - [sub1 folder]
 	- [sub1/subFile.md - created in GUI - saved as subfile.md then renamed "sudo mv subfile.md subFile.md" - stored in repository as subfile.md](/sub1/subFile)
 	- [sub1/subFile1.md - created manually "touch subFile1.md - not synchronized witch repository"](/sub1/subFile1)
