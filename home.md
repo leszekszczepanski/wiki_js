@@ -7,11 +7,11 @@
 - [GitHub Repository](https://github.com/leszekszczepanski/wiki_js)
 
 ## Test Links
-- [sub folder](/sub)
+- [sub folder]
 	- [sub/subfile.md](/sub/subfile)
 	- [sub/subfile1.md](/sub/subfile1)
 	- [sub/subfile-1.md](/sub/subfile-1)
-- [sub1 folder](/sub1)
+- [sub1 folder]
 	- [sub1/subFile.md](/sub1/subFile)
 	- [sub1/subFile1.md](/sub1/subFile1)
 	- [sub1/sub-File1.md](/sub1/sub-File1)
