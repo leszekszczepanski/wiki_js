@@ -3,7 +3,7 @@
 
 ![Wiki.js](/uploads/logo.png "Logo"){.pagelogo}
 # Overview
-- [Homepage](https://localhost:443/)
+- [Homepage](https://35.157.71.111/home)
 
 ## Quick Links
 - [GitHub Repository](https://github.com/leszekszczepanski/wiki_js)
