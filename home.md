@@ -4,9 +4,9 @@
 ![Wiki.js](/uploads/logo.png "Logo"){.pagelogo}
 # Overview
 - [Homepage](https://35.157.71.111/home)
-
-## Quick Links
 - [GitHub Repository](https://github.com/leszekszczepanski/wiki_js)
+
+## Test Links
 - [sub folder](/sub)
 	- [sub/subfile.md](/sub/subfile)
 	- [sub/subfile1.md](/sub/subfile1)
